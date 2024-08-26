@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Todo App with CRUD Operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachith-953/To-Do-WebApp.git"
+  },
+  "keywords": [
+    "npm",
+    "start"
+  ],
+  "author": "Sachith rajapakse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachith-953/To-Do-WebApp/issues"
+  },
+  "homepage": "https://github.com/sachith-953/To-Do-WebApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.4"
+  }
+}
